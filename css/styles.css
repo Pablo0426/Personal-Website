@@ -154,4 +154,9 @@ p{
     .mountain-img{
         width: 100%;
     }
+
+    .bottom-cloud{
+        bottom: 25%;
+        left:5%;
+    }
 }
